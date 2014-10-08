@@ -1,5 +1,5 @@
 """
-please place a file gmail_settings.py
+please place a file gmail_settings.py with two varialbes:
 
 GMAIL_ACCOUNT = ""
 GMAIL_PASSWORD = ""

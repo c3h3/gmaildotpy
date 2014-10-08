@@ -2,6 +2,8 @@
 build/
 dist/
 gmaildotpy.egg-info/
+match_bin/
+.settings/
 
 
 
@@ -10,6 +12,11 @@ gmaildotpy.egg-info/
 
 .project
 .pydevproject
+
+
+
+dev_ipynbs/key_words.ipynb
+dev_ipynbs/twm_match_keywords_sending.ipynb
 
 
 
